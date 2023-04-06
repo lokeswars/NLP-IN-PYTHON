@@ -1,0 +1,25 @@
+RE are strings with special syntax
+allows us to match other strings
+ python re library
+ 
+ \w+ words
+ \d digits
+ \s spaces
+ .* wildcard
+ + or * greedy(repeated)
+ 
+ 
+ 
+ PYTHON MODULES 
+ spliit
+ findall
+ match
+ search
+ 
+ 
+ syntax is pattern  then followed by string
+ 
+ 
+1) PATTERN = r"\w+"
+ 
+re.findall(r"\w+",my_string)
